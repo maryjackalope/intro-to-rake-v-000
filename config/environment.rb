@@ -1,3 +1,6 @@
+desc 'drop into the Pry console'
+
+
 require 'sqlite3'
 require 'pry'
 
